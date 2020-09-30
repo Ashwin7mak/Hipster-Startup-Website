@@ -2,6 +2,8 @@
 
 html, body, .cover {
 	height: 100% ;
+	/*added margin 0% */
+	margin:0%;
 }
 
 .cover {
