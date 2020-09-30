@@ -1,4 +1,5 @@
 # Hipster-Startup-Website
+ A Simple and Easy solution.
 
 •	Designed my first responsive website created using HTML5, CSS3 and Bootstrap3.
 
