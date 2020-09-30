@@ -4,6 +4,9 @@
 
 •	This webpage is responsive as it is compatible for the various versions of small devices and extra small devices.
 
+•  HTML5, CSS3 and Bootstrap3.
+
+
 
 Locally hosted githubpages : https://ashwin7mak.github.io/Hipster-Startup-Website/startup.html
 
