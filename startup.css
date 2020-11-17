@@ -58,12 +58,12 @@ blockquote cite {
 }
 
 section {
-	padding: 100px;
+	padding: 95px;
 }
 
 h2{
 	text-align: center;
-	font-size: 28px;
+	font-size: 27px;
 	font-weight: bold;
 	text-transform: uppercase;
 	margin: 0 0 60px;
@@ -71,7 +71,7 @@ h2{
 
 h2 + p{
 	text-align: center;
-	margin-top: -50px;
+	margin-top: -55px;
 }
 
 
